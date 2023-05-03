@@ -1,0 +1,2 @@
+Testes funcionais preocupam em testar histórias de usuário, uma interação real que um usuário poderia ter. Enquanto testes de unidades focam mais em testes pontuais em métodos e classes, para verificar assertividade do código.
+Testes funcionais são caros, por ser ponta-a-ponta. Enquanto os testes unitários são leves e devem ser executados rapidamente.
