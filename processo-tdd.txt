@@ -1,0 +1,1 @@
+O processo do TDD é um fluxo contínuo, onde primeiro você escreve seu teste funcional, depois comece a escreve os testes unitários que cobram as funcionalidades propostas no teste. Sempre escrevendo o mínimo código possível para se ter os testes unitários funcionando e depois tendo o teste funcional funcionando. Depois disso verifica se esse código precisa de refatoração.
